@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Mohamed Ben Hamou</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<h3 align="center">A passionate software engineering student 😁</h3>
 <img
   align="right"
   alt="Coding"
